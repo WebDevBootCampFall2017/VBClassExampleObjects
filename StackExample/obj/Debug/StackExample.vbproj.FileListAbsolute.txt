@@ -1,0 +1,9 @@
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\StackExample\bin\Debug\StackExample.exe.config
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\StackExample\bin\Debug\StackExample.exe
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\StackExample\bin\Debug\StackExample.pdb
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\StackExample\bin\Debug\StackExample.xml
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\StackExample\obj\Debug\StackExample.Resources.resources
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\StackExample\obj\Debug\StackExample.vbproj.GenerateResource.Cache
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\StackExample\obj\Debug\StackExample.exe
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\StackExample\obj\Debug\StackExample.xml
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\StackExample\obj\Debug\StackExample.pdb

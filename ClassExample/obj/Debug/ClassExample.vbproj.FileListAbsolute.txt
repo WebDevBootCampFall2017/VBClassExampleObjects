@@ -1,0 +1,10 @@
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\bin\Debug\ClassExample.exe.config
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\bin\Debug\ClassExample.exe
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\bin\Debug\ClassExample.pdb
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\bin\Debug\ClassExample.xml
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\obj\Debug\ClassExample.vbprojResolveAssemblyReference.cache
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\obj\Debug\ClassExample.Resources.resources
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\obj\Debug\ClassExample.vbproj.GenerateResource.Cache
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\obj\Debug\ClassExample.exe
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\obj\Debug\ClassExample.xml
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\ClassExample\obj\Debug\ClassExample.pdb

@@ -1,0 +1,11 @@
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\bin\Debug\BasicTextbox.exe.config
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\bin\Debug\BasicTextbox.exe
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\bin\Debug\BasicTextbox.pdb
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\bin\Debug\BasicTextbox.xml
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\obj\Debug\BasicTextbox.vbprojResolveAssemblyReference.cache
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\obj\Debug\BasicTextbox.Form1.resources
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\obj\Debug\BasicTextbox.Resources.resources
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\obj\Debug\BasicTextbox.vbproj.GenerateResource.Cache
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\obj\Debug\BasicTextbox.exe
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\obj\Debug\BasicTextbox.xml
+c:\users\labuser\documents\visual studio 2017\Projects\ArrayListExample\BasicTextbox\obj\Debug\BasicTextbox.pdb
